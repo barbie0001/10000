@@ -1,0 +1,14 @@
+D:\Microsoft VS Code\pianino100\pianino100\obj\Debug\net6.0\pianino100.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft VS Code\pianino100\pianino100\obj\Debug\net6.0\pianino100.AssemblyInfoInputs.cache
+D:\Microsoft VS Code\pianino100\pianino100\obj\Debug\net6.0\pianino100.AssemblyInfo.cs
+D:\Microsoft VS Code\pianino100\pianino100\obj\Debug\net6.0\pianino100.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Code\pianino100\pianino100\bin\Debug\net6.0\pianino100.exe
+D:\Microsoft VS Code\pianino100\pianino100\bin\Debug\net6.0\pianino100.deps.json
+D:\Microsoft VS Code\pianino100\pianino100\bin\Debug\net6.0\pianino100.runtimeconfig.json
+D:\Microsoft VS Code\pianino100\pianino100\bin\Debug\net6.0\pianino100.dll
+D:\Microsoft VS Code\pianino100\pianino100\bin\Debug\net6.0\pianino100.pdb
+D:\Microsoft VS Code\pianino100\pianino100\obj\Debug\net6.0\pianino100.dll
+D:\Microsoft VS Code\pianino100\pianino100\obj\Debug\net6.0\refint\pianino100.dll
+D:\Microsoft VS Code\pianino100\pianino100\obj\Debug\net6.0\pianino100.pdb
+D:\Microsoft VS Code\pianino100\pianino100\obj\Debug\net6.0\pianino100.genruntimeconfig.cache
+D:\Microsoft VS Code\pianino100\pianino100\obj\Debug\net6.0\ref\pianino100.dll
